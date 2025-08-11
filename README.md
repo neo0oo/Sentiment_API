@@ -1,5 +1,5 @@
 # Sentiment_API
-FastAPI service for multilingual sentiment analysis using Hugging Face Transformers.
+FastAPI service for multilingual sentiment analysis using Hugging Face Transformers. Can analyze "batches" of text and also single-line texts. 
 
 ## Quick Start
 ```bash
